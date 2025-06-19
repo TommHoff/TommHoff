@@ -5,7 +5,7 @@ I am now over 40 summers young, a lad still oft with radical musings, born in �
 function DevProfile($passion = 'PHP') { 
   $skills = ['SQL','Big Data','Nette']; 
   $calm = "with a bowl of sencha, the world doth seem more calm";
-  $projects = "💞️ I'm looking to collaborate on the ČFK website project. 🌐 Check out https://tomas.hoffmann.cz/";
+  $projects = "💞️ I'm looking to collaborate on the ČFK website project. 🌐 Check out https://tomek.wtf/";
   $tools = "🛠️ I use PhpStorm and dBeaver daily.";
   return  $passion . " & " . implode(", ", $skills) . "; // " . $calm . " " . $tools . " " . $projects;
 } 
